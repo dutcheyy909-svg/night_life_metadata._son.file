@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_metadata",
+  "title": "Night Life",
+  "version_title": "Original Mix",
+  "primary_artists": [
+    "Dutcheyy",
+    "Danskie"
+  ],
+  "display_artist": "Dutcheyy & Danskie",
+  "language": "Instrumental",
+  "instrumental": true,
+  "explicit": false,
+  "bpm": 158,
+  "musical_key": "G minor",
+  "primary_genre": "Techno",
+  "secondary_genre": "Acid Techno",
+  "moods": [
+    "Energetic",
+    "Dark",
+    "Driving",
+    "Hypnotic",
+    "Intense"
+  ],
+  "themes": [
+    "Nightlife",
+    "Clubbing",
+    "Underground rave",
+    "High energy",
+    "Late-night movement"
+  ],
+  "keywords": [
+    "acid techno",
+    "techno",
+    "158 BPM",
+    "G minor",
+    "instrumental",
+    "nightlife",
+    "club",
+    "rave",
+    "underground",
+    "driving",
+    "dark",
+    "energetic",
+    "hypnotic",
+    "electronic",
+    "dance"
+  ],
+  "suggested_sync_uses": [
+    "Nightclub scenes",
+    "Action montage",
+    "Motorsport",
+    "Extreme sports",
+    "Fashion content",
+    "Gaming",
+    "Trailers and promos"
+  ],
+  "writers": [
+    {
+      "name": "Dutcheyy",
+      "legal_name": "Duncan Munro",
+      "pro": "BMI",
+      "ipi_cae": "TBC",
+      "share_percent": "50%"
+    },
+    {
+      "name": "Danskie",
+      "legal_name": "Ryan Dunnett",
+      "pro": "BMI",
+      "ipi_cae": "TBC",
+      "share_percent": "50%"
+    }
+  ],
+  "producers": [
+    "Dutcheyy",
+    "Danskie"
+  ],
+  "publishing": {
+    "publisher_names": [
+      "Dutcheyy records"
+    ],
+    "publishing_split_percent": "TBC"
+  },
+  "master_rights": {
+    "owner_names": [
+      "Dutcheyy records"
+    ],
+    "ownership_split_percent": "TBC",
+    "contact_email": "ryandunnett1996@outlook.com"
+  },
+  "copyright": {
+    "composition_notice": "TBC",
+    "sound_recording_notice": "TBC"
+  },
+  "identifiers": {
+    "isrc": "TBC",
+    "iswc": "TBC",
+    "upc_ean": "TBC"
+  },
+  "release": {
+    "label": "Dutcheyy records",
+    "release_title": "Night Life",
+    "release_date": "2026-10-19",
+    "original_release_date": "TBC",
+    "catalog_number": "04"
+  },
+  "audio": {
+    "duration": "TBC",
+    "sample_rate": "TBC",
+    "bit_depth": "TBC",
+    "mix_status": "TBC",
+    "master_status": "TBC"
+  },
+  "sync_delivery": {
+    "full_mix": "TBC",
+    "instrumental_mix": "Primary version",
+    "clean_version": "Not required; instrumental",
+    "stems": "yes",
+    "fifteen_second_cut": "yes",
+    "thirty_second_cut": "yes",
+    "sixty_second_cut": "yes",
+    "one_stop_clearance": "yes"
+  },
+  "rights_status": "Unconfirmed",
+  "metadata_created": "2026-09-18",
+  "notes": "Confirm legal names, writer and master splits, identifiers, ownership, duration, release information and delivery assets before distribution or sync submission."
+}
