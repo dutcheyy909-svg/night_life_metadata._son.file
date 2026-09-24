@@ -121,7 +121,7 @@
     "sixty_second_cut": "yes",
     "one_stop_clearance": "yes"
   },
-  "rights_status": "Unconfirmed — do not pitch as one-stop until ownership and splits are verified",
+  "rights_status": "Unconfirmed",
   "metadata_created": "2026-09-18",
   "notes": "Confirm legal names, writer and master splits, identifiers, ownership, duration, release information and delivery assets before distribution or sync submission."
 }
