@@ -58,16 +58,16 @@
   "writers": [
     {
       "name": "Dutcheyy",
-      "legal_name": "Duncan munro",
+      "legal_name": "Duncan Munro",
       "pro": "BMI",
-      "ipi_cae": "01071694550",
+      "ipi_cae": "TBC",
       "share_percent": "50%"
     },
     {
       "name": "Danskie",
-      "legal_name": "ryan dunnett",
+      "legal_name": "Ryan Dunnett",
       "pro": "BMI",
-      "ipi_cae": "01071694550",
+      "ipi_cae": "TBC",
       "share_percent": "50%"
     }
   ],
@@ -85,7 +85,7 @@
     "owner_names": [
       "Dutcheyy records"
     ],
-    "ownership_split_percent": "50%",
+    "ownership_split_percent": "100%",
     "contact_email": "ryandunnett1996@outlook.com"
   },
   "copyright": {
@@ -100,14 +100,14 @@
   "release": {
     "label": "Dutcheyy records",
     "release_title": "night life",
-    "release_date": "19/10/2026",
+    "release_date": "2026-10-19",
     "original_release_date": "TBC",
     "catalog_number": "04"
   },
   "audio": {
     "duration": "TBC",
-    "sample_rate": "24hz",
-    "bit_depth": "T",
+    "sample_rate": "TBC",
+    "bit_depth": "TBC",
     "mix_status": "TBC",
     "master_status": "TBC"
   },
