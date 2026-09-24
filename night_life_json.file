@@ -79,13 +79,13 @@
     "publisher_names": [
       "Dutcheyy records"
     ],
-    "publishing_split_percent": "100%"
+    "publishing_split_percent": "TBC"
   },
   "master_rights": {
     "owner_names": [
       "Dutcheyy records"
     ],
-    "ownership_split_percent": "100%",
+    "ownership_split_percent": "TBC",
     "contact_email": "ryandunnett1996@outlook.com"
   },
   "copyright": {
@@ -99,7 +99,7 @@
   },
   "release": {
     "label": "Dutcheyy records",
-    "release_title": "night life",
+    "release_title": "Night Life",
     "release_date": "2026-10-19",
     "original_release_date": "TBC",
     "catalog_number": "04"
